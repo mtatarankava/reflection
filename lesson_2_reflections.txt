@@ -24,5 +24,7 @@ it helps to see what commits are richable and what not
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+result is mix of both branches
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
