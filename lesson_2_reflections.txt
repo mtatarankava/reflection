@@ -19,6 +19,8 @@ When you are going to try some trial version of you project
 
 How do the diagrams help you visualize the branch structure?
 
+it helps to see what commits are richable and what not
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
